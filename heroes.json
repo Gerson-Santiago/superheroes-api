@@ -1,0 +1,36 @@
+{
+  "nomeEsquadrao": "Esquadrão de Super-Heróis",
+  "cidadeNatal": "Cidade Metro",
+  "fundadoEm": 2016,
+  "ativo": true,
+  "membros": [
+    {
+      "nome": "Homem Molécula",
+      "idade": 29,
+      "identidadeSecreta": "Dan Jukes",
+      "poderes": ["Resistência à radiação", "Encolhimento", "Rajada de radiação"]
+    },
+    {
+      "nome": "Madame Uppercut",
+      "idade": 39,
+      "identidadeSecreta": "Jane Wilson",
+      "poderes": [
+        "Soco de um milhão de toneladas",
+        "Resistência a danos",
+        "Reflexos sobre-humanos"
+      ]
+    },
+    {
+      "nome": "Chama Eterna",
+      "idade": 1000000,
+      "identidadeSecreta": "Desconhecida",
+      "poderes": [
+        "Imortalidade",
+        "Imunidade ao calor",
+        "Inferno",
+        "Teletransporte",
+        "Viagem interdimensional"
+      ]
+    }
+  ]
+}
